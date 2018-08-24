@@ -1,0 +1,27 @@
+.nav{
+    font-family: 'PT Sans Narrow', sans-serif !important;
+    font-size: 30px;
+    background-color: #263238 !important;
+}
+
+body{
+    background-color: azure;
+    font-family: 'PT Sans Narrow', sans-serif !important;
+}
+
+
+.parallax-container {
+    font-family: 'PT Sans Narrow', sans-serif !important;
+    height: height 200px;
+  }
+
+
+
+
+    .footer{
+        font-family: 'PT Sans Narrow', sans-serif !important;
+        background-color: lightslategray;
+        align-content: center;
+        
+        
+    }
