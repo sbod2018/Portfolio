@@ -5,23 +5,27 @@
 }
 
 body{
-    background-color: azure;
+    background-image: url("assets/images/nasa-wallpapaers.jpg")!important;
     font-family: 'PT Sans Narrow', sans-serif !important;
 }
 
+/* .nav-background{
+    background-image: url(https://stmed.net/sites/default/files/nasa-wallpapers-28756-3489655.jpg)!important;
+} */
 
-.parallax-container {
+
+/* .parallax-container {
     font-family: 'PT Sans Narrow', sans-serif !important;
     height: height 200px;
-  }
+  } */
 
 
 
 
-    .footer{
+    /* .footer{
         font-family: 'PT Sans Narrow', sans-serif !important;
         background-color: lightslategray;
         align-content: center;
         
         
-    }
+    } */
